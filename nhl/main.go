@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/syedwshah/LearnGo/nhlApi"
+	"github.com/syedwshah/LearnGo/nhl/nhlApi"
 )
 
 func main() {
